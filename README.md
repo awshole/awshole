@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+My name is David Wiggs, and I’ve been testing in production since 2012. I was born, raised, and went to school in Champaign, IL, and currently live in Chicago. I enjoy spending time with my wonderful girlfriend, gardening, and even have a gear bag full of paintball equipment that doesn’t get enough use.
 
-<!--
-**awshole/awshole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on securing and auotmating the application development lifecycle @Bain
+- 🌱 I’m currently learning good practices on developing and scaling GitHub Actions workflows for Enterprises
+- 👯 I’m looking to collaborate on anything PowerShell
+- 🤔 I’m looking for help with finding the best places to eat in Chicago 🍕🌭🥞🍜🍝🍔
+- 💬 Ask me about (non) linear optimization or The Transportation Problem
+- 📫 How to reach me: [dwiggs4@gmail.com](mailto:dwiggs4@gmail.com)
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
--->
+  ![relentless](relentless.gif)
