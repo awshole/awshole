@@ -9,4 +9,5 @@ My name is David Wiggs, and I’ve been testing in production since 2012. I was 
 - 📫 How to reach me: [dwiggs4@gmail.com](mailto:dwiggs4@gmail.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
+
   ![relentless](relentless.gif)
